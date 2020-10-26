@@ -53,7 +53,7 @@ var __ISLANDS__ = {
 
 var __INITIAL_WORDS__ = {
   'A': 'Jibu',
-  'B': 'My friend hyperdelic after going to the soiter',
+  'B': 'mala baba',
   'C': 'Hey guys its me Mister Babo',
 };
 
